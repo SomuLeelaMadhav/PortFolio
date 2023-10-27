@@ -85,4 +85,11 @@
 3. Deep Learning in Target Space and “xAi”  for Predicting Brain Tumor, Segmentation [Jan 2023]
 -	This study introduced a novel training methodology called “target space training,” wherein the model is trained to minimize the loss function in the target space rather than the input space. This also addresses the problems related to exploding gradients and improves models’ ability to generalize data. This method may require high computational power. This approach has shown greater accuracy when compared to other deep learning models such as ResNet, U-Net, and Mask R-CNN.
 
-
+### Workshops
+-	Member of AISES ( American Indian Science and Engineering ) Member ID: 70371285.
+-	Champion in SRM Hackathon 2019. 
+-	Runner of UTA Hackathon’23
+-	Monitored an intra-campus technical competition event as  Campus Ambassador, providing valuable insights and practical guidance to fellow students on relevant topics.
+-	Conducted events to bring awareness to fellow students, and juniors on blood donation importance and educating youngsters from underdeveloped places in rural India. 
+-	Took part in a Google Explore Machine Learning workshop to gain a better understanding of machine learning concepts and applications.
+-	Performed in the India International Science Festival’s Young Scientist Conference, displaying research work and exchanging ideas with other young scientists.

@@ -1,4 +1,4 @@
-# Data Scientist
+# DataScientist
 
 ## Education							       		
 - M.S., Computer Science	    | The University of Texas at Arlington, TX, USA (_May 2020_)      		
